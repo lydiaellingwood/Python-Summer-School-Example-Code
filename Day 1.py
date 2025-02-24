@@ -1,4 +1,4 @@
-def d1():
+def day1():
     # 1
     print("Hello World!")
     # print: prints a message on the screen
