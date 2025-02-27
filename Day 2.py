@@ -1,10 +1,10 @@
 def day2():
     # 1
-    name = input("Enter your name: ")
+    name = "Lydia"
     if name == "Lydia":
-        print("Hello Lydia!\n")
+        print("Hello Lydia!")
     else:
-        print("You are not Lydia, :(\n")
+        print("You are not Lydia, :(")
 
     num = 8
     if num < 3:
