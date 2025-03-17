@@ -1,6 +1,7 @@
 def day4():
     import turtle
 
+    # 1
     # Forward and Back
     turtle.forward(100)
     turtle.back(100)
@@ -21,6 +22,12 @@ def day4():
     turtle.forward(50)
     turtle.pendown()
     turtle.forward(50)
+
+    # Pensize
+    turtle.pensize(10)
+    turtle.forward(100)
+    turtle.pensize(1)
+    turtle.back(100)
 
 
     # https://docs.python.org/3/library/turtle.html

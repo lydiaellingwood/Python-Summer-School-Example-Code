@@ -6,6 +6,7 @@ def day3():
 
     # To add
     sum = float1 + float2
+    sum2 = float1 + 3
 
     # To subtract
     difference = float1 - float2
